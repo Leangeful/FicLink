@@ -40,6 +40,6 @@ func main(){
                 fmt.Println("Failed to start graw run: ", err)
         } else {
                 fmt.Println("graw run failed: ", wait())
-        }
-	}	
+		}
+	}
 }
